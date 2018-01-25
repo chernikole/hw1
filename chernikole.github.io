@@ -1,1 +1,2 @@
-chernikole.github.io
+cd chernikole.github.io
+index.html
