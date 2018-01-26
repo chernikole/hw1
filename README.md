@@ -1,10 +1,3 @@
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>тест</title>
-  </head>
-  <body>
-	
 
 О моей жизни и личности
 
@@ -48,6 +41,3 @@
 Для официальных обращений можете писать сразу на почту:
 
 <nikoleta731@gmail.com>
-
- </body>
-</html>
